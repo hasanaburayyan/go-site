@@ -1,0 +1,9 @@
+version: "3.5"
+services:
+  go-site:
+    image: hasanaburayyan/go-basic-site
+    build: .
+    container_name: go-site
+    ports:
+      - "8080:8080"
+
