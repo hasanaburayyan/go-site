@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  go-site:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-07-30T01:07:25.218089839-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 9c7a60ff32470fca5270630569d3c77f9744877da3741e54d3d0534a0dfdd4d2
+    name: go-site
+    type: application
+    urls:
+    - go-site-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-07-30T01:07:25.217461084-04:00"
